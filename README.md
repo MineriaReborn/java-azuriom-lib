@@ -14,10 +14,6 @@ Ajoutez la class **AzAuth.java** à votre projet.
 
 ## Exemple d'utilisation
 
-Voici un exemple simple pour démontrer l'utilisation de la bibliothèque :
-
-## Exemple d'utilisation
-
 Voici comment utiliser la bibliothèque `AzAuth` pour interagir avec l'API d'authentification d'Azuriom :
 
 ```java
