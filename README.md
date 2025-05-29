@@ -1,6 +1,6 @@
 # Java Azuriom Lib
 
-Une bibliothèque Java légère et fluide pour interagir avec l'API d'authentification du CMS [Azuriom](https://azuriom.com/). Contrairement à la bibliothèque officielle [AzAuth](https://github.com/Azuriom/AzAuth), cette librairie se concentre uniquement sur l'utilisation de l'API d'authentification d'Azuriom, sans inclure de fonctionnalités avancées ou de dépendances complexes.
+Une bibliothèque Java légère et fluide pour interagir avec l'API d'authentification du CMS [Azuriom](https://azuriom.com/). Contrairement à la bibliothèque officielle [AzAuth](https://github.com/Azuriom/AzAuth), cette librairie se concentre uniquement sur l'utilisation de l'API d'authentification d'Azuriom, sans inclure de fonctionnalités avancées ou de dépendances.
 
 ## Caractéristiques
 
