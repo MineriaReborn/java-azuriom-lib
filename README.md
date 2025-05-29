@@ -10,7 +10,7 @@ Une bibliothèque Java légère et fluide pour interagir avec l'API d'authentifi
 
 ## Installation
 
-Ajoutez la class **AzAuth.java** à votre projet.
+Ajoutez la class `AzAuth.java` à votre projet.
 
 ## Exemple d'utilisation
 
