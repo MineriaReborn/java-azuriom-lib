@@ -11,11 +11,18 @@ repositories {
 }
 
 dependencies {
+	implementation("com.google.code.gson:gson:2.13.1")
+	implementation("net.sf.jopt-simple:jopt-simple:6.0-alpha-3")
+	implementation("org.projectlombok:lombok:1.18.38")
 }
 
 tasks.shadowJar {
     archiveClassifier.set("")
     archiveFileName.set("${project.name}-${project.version}.jar")
+    
+    dependencies {
+        exclude(dependency { true })
+    }
 }
 
 tasks.build {
